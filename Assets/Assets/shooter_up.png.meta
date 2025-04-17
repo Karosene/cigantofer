@@ -1,0 +1,928 @@
+fileFormatVersion: 2
+guid: ae04602599d3ba942b150221ae98d4af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shooter_up_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 132
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6140887, y: 0.49795786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469d058fccffc2d41a56e625c147b627
+      internalID: 811633177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 132
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.43415672, y: 0.49793115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75429fa01c44e4e4a83e4519a8fed83e
+      internalID: -2005387518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42136222, y: 0.49169922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c209d17ce3c0245ac6a3099d2bd1b1
+      internalID: -1212946018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 132
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45019615, y: 0.4958496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fc44450e6e0cf41b826c368029134a
+      internalID: -1388245506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 149
+        width: 7
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5151542, y: 0.48737183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852b01597a2e0a440a776e2d39cb1e57
+      internalID: -1448827708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 147
+        width: 14
+        height: 9
+      alignment: 9
+      pivot: {x: 0.9164941, y: 0.50472176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21fcc5e37a364d4ea4289c58ebf4b0d
+      internalID: 339033102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 146
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cb68a86fed0354290a78c8231bc2e0
+      internalID: 2081016703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 146
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d3460d23c512247b24dcfb2633faf8
+      internalID: 192859348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 133
+        width: 10
+        height: 5
+      alignment: 9
+      pivot: {x: 0.8812653, y: 0.5092651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1af17f9d67cd3449e5b317c8a1c30a
+      internalID: 372881345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 133
+        width: 14
+        height: 5
+      alignment: 9
+      pivot: {x: 0.9308744, y: 0.49318847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e3c9e67fe2feb478fd61a4da57c56b
+      internalID: -1317728231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 133
+        width: 12
+        height: 5
+      alignment: 9
+      pivot: {x: 0.8750763, y: 0.5023285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6322868657232394eae414351a15fa05
+      internalID: -453112628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 130
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d82ae06e2b77a419c2e807c7fddb33
+      internalID: 1699315608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f757a1437b64914fbe288a16a37dc61
+      internalID: -1716549064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5260747, y: 0.48478952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6295b7be04c5b464e9a60116a7165b73
+      internalID: 376124626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.39432847, y: 0.49999967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d1e44dd05780f4a80c4a59b558d02a
+      internalID: -1390278707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 100
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.38472146, y: 0.49999967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e5bbfc51b9f07479bb64b26947144d
+      internalID: -968028286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41887793, y: 0.51520985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38db18a6612d4e74bacf58aba6286054
+      internalID: -1572735948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8a0a8fa97c0e54782a63256028b1ad
+      internalID: 1913037849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed7dc97f65ee344fb439ba488a6e90b
+      internalID: 1730234043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9a9164adb3d84baa53c2cf1f96ae5
+      internalID: 1321460694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 69
+        width: 15
+        height: 22
+      alignment: 9
+      pivot: {x: 0.57300925, y: 0.4917034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13014d5fc7f5154babd7114816bad88
+      internalID: -350444622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 69
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.46349525, y: 0.4917034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0424bf32453ff9469a9d240498ec21d
+      internalID: 498219780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c527dc768801494481e3ac5d2e91c5d
+      internalID: -634035119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 69
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74fb2b83d7cecb45811adb75d7a393a
+      internalID: 374847947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5782243, y: 0.49239478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d00ce1aca24d52428ad0d5ea655530c
+      internalID: 1178034780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.40393507, y: 0.48478952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21981bbfaa9107b4294fd83f2eed3a67
+      internalID: 767713096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.43275413, y: 0.5076049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688a768cf6598494ea0271394aaed4a7
+      internalID: -1260441341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.46957907, y: 0.48478952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9f68fa3912894f89f2d4dde10092e
+      internalID: -1709146364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac75f11e06dcc52458c245715cf72f2e
+      internalID: 1642216822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e76d165b0df2a45b011c36f3b8d996
+      internalID: 431801908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5
+        width: 18
+        height: 22
+      alignment: 9
+      pivot: {x: 0.3478972, y: 0.49170324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a587b3d55d20f744abb372ce388cdbd7
+      internalID: 1076384046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5
+        width: 18
+        height: 22
+      alignment: 9
+      pivot: {x: 0.34789658, y: 0.49170324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cdb3538647075439279e48bebca520
+      internalID: -1295841235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 17
+        height: 22
+      alignment: 9
+      pivot: {x: 0.38189608, y: 0.4999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ec33a83486ba4e862a368bbf34f3a
+      internalID: -1036438239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 12
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8daa1c84b032e04ea06961172061615
+      internalID: -873918263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 151
+        width: 8
+        height: 3
+      alignment: 9
+      pivot: {x: 0.19734383, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c38111f1225f4dada9e502c5b4f81
+      internalID: 647618346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 83
+        width: 7
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7860001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb36ae07f375434891dc45678a61cab
+      internalID: 2137209508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooter_up_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 80
+        width: 7
+        height: 15
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3326ab100ac45418d70948a914fdaf
+      internalID: -1406080996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shooter_up_0: 811633177
+      shooter_up_1: -2005387518
+      shooter_up_10: -453112628
+      shooter_up_11: 1699315608
+      shooter_up_12: -1716549064
+      shooter_up_13: 376124626
+      shooter_up_14: -1390278707
+      shooter_up_15: -968028286
+      shooter_up_16: -1572735948
+      shooter_up_17: 1913037849
+      shooter_up_18: 1730234043
+      shooter_up_19: 1321460694
+      shooter_up_2: -1212946018
+      shooter_up_20: -350444622
+      shooter_up_21: 498219780
+      shooter_up_22: -634035119
+      shooter_up_23: 374847947
+      shooter_up_24: 2137209508
+      shooter_up_25: 1178034780
+      shooter_up_26: 767713096
+      shooter_up_27: -1260441341
+      shooter_up_28: -1709146364
+      shooter_up_29: 1642216822
+      shooter_up_3: -1388245506
+      shooter_up_30: 431801908
+      shooter_up_31: 1076384046
+      shooter_up_32: -1295841235
+      shooter_up_33: -1036438239
+      shooter_up_34: -873918263
+      shooter_up_35: 647618346
+      shooter_up_36: -1406080996
+      shooter_up_4: -1448827708
+      shooter_up_5: 339033102
+      shooter_up_6: 2081016703
+      shooter_up_7: 192859348
+      shooter_up_8: 372881345
+      shooter_up_9: -1317728231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

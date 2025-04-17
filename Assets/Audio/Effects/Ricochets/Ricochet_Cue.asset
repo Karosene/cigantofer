@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30ceb49b902fc41409b63dac0103181a, type: 3}
+  m_Name: Ricochet_Cue
+  m_EditorClassIdentifier: 
+  sounds:
+  - {fileID: 8300000, guid: 20a60f662b21179438c420fc4823070f, type: 3}
+  - {fileID: 8300000, guid: 946e7331c3192324f87d6a96d90b04c5, type: 3}
+  - {fileID: 8300000, guid: 824a3d73775ca22498d034dd542eb048, type: 3}
+  - {fileID: 8300000, guid: cad36d1069fb824468b59743b0083130, type: 3}
+  - {fileID: 8300000, guid: 1c73bc06316625f4fb202ba8f30d8bdc, type: 3}
+  - {fileID: 8300000, guid: 0e3fa140006299548bd46d7710a67a95, type: 3}
+  - {fileID: 8300000, guid: fe86caf604772fb4b88091c7ee8f4ca4, type: 3}
+  - {fileID: 8300000, guid: 68ee72d15ca7d6348bfd615448a58166, type: 3}
+  - {fileID: 8300000, guid: d6a36bf93fdb446419aa63e08f6b98d9, type: 3}
+  - {fileID: 8300000, guid: 370292bdfafe6ac44aca7af9594f654a, type: 3}
+  - {fileID: 8300000, guid: 5b5f2875a8499fe42849dc8878a77fdb, type: 3}
+  - {fileID: 8300000, guid: fe8a941d660d94046892463b951d2816, type: 3}
+  volume: 1

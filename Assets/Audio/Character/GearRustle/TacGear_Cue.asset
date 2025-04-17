@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30ceb49b902fc41409b63dac0103181a, type: 3}
+  m_Name: TacGear_Cue
+  m_EditorClassIdentifier: 
+  sounds:
+  - {fileID: 8300000, guid: 00f382a30c3ca5f429ba1a233ba0e7a0, type: 3}
+  - {fileID: 8300000, guid: 98a2c6cd008cfab4c8ecdcf81de6098e, type: 3}
+  - {fileID: 8300000, guid: a6a66bc995e13eb4a844c77ed170fda3, type: 3}
+  - {fileID: 8300000, guid: cfe140f9ea1cadd41a65336ac272374f, type: 3}
+  - {fileID: 8300000, guid: 540d0b6f97c083e4182937d552872ea4, type: 3}
+  - {fileID: 8300000, guid: 7d1d3faef096c1e4fb69bc0f68cfb6c0, type: 3}
+  - {fileID: 8300000, guid: 07d6bc77c573d32489fa7f148f1d15c5, type: 3}
+  - {fileID: 8300000, guid: c3f90993f74095c42967dc59a8cd9ec5, type: 3}
+  - {fileID: 8300000, guid: d5fba2c21ba677d449ead65108355b0b, type: 3}
+  - {fileID: 8300000, guid: 99680d54f8f2e1249b072c0c4693af49, type: 3}
+  - {fileID: 8300000, guid: 74eedf1a67303004880d0cf0ca254eaa, type: 3}
+  - {fileID: 8300000, guid: d826a9cf11ec0a64b8c797dbebbfc43f, type: 3}
+  - {fileID: 8300000, guid: 9440f494806e7754f864aa2803b0fd59, type: 3}
+  - {fileID: 8300000, guid: aa375c1d3853f4e48ae618e52ff420f8, type: 3}
+  - {fileID: 8300000, guid: 2d868f5fc5d383047af5d937fffd475a, type: 3}
+  - {fileID: 8300000, guid: 2893feeb38c00174ba18641ac5981c4d, type: 3}
+  - {fileID: 8300000, guid: 46ab07dc0d60145419a91cf046d704da, type: 3}
+  - {fileID: 8300000, guid: 1d8fce67a848d3e4aaa930b4fff038d4, type: 3}
+  - {fileID: 8300000, guid: 8b79134f989311c4d8e8c55540678d02, type: 3}
+  - {fileID: 8300000, guid: 040f887df8e061048a230b3ce4c2f9c5, type: 3}
+  volume: 1

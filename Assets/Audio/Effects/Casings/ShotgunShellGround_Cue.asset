@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30ceb49b902fc41409b63dac0103181a, type: 3}
+  m_Name: ShotgunShellGround_Cue
+  m_EditorClassIdentifier: 
+  sounds:
+  - {fileID: 8300000, guid: acdf797155b777141aeaaadb78450c01, type: 3}
+  - {fileID: 8300000, guid: 9cc1b686ddedaeb46a594bbf64c3fa2f, type: 3}
+  - {fileID: 8300000, guid: 80b2f157c0980834a989fb223fd2d478, type: 3}
+  - {fileID: 8300000, guid: b3fffe4fad6fa1040a679025161e7c71, type: 3}
+  volume: 1
