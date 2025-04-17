@@ -4,3 +4,4 @@ for i in range(1, random.randint(3,5)):
     print("Bruh je gay")
 
 print("oiydionjwef")
+print ("wdwadwa")
