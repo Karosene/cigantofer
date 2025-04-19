@@ -20,3 +20,7 @@ stv()
 c.mainloop()
 
 # if a1 + a2 > x1 and y1 + y2 > b1 and x1 + x2 > a1 and b1 + b2 > y1
+speky bucek
+speky bucek
+speky bucek
+speky bucek
