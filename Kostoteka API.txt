@@ -1,0 +1,13 @@
+Kostoteka API
+
+1 ziskat poziciu usera
+2 vyhladat na vybranych strankach vsetky vinobrania co sa budu diat
+3 zistit mesto kde sa budu konat tieto vinobrania
+4 vypisat iba tie ktore su v okoli 100km 
+
+Updaty do buducna: 
+	1 toto sa bude menit na search bar okresnych miest pre jednoduchsie vyhladavanie
+	4 toto sa bude menit na cislo ktore napise user na stranku
+	
+	dalsie updaty: 
+		= pridat tam aj ceske okresne mesta a ceske stranky pre vyhladavanie vinobrania
